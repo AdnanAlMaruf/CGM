@@ -12,3 +12,5 @@ This is classic snake game using OpenGlut,C++. Here are some feature of this gam
 This game has all features that a classic snake game have.The only difference is that it is created by C++.It will work on all the browsers 
 but work best when you use chrome or safari .If you want to play the you have to press S/s  to start the game. The directional keys are the
 controller of this game. Happy Snaking……
+
+![Untitled](https://user-images.githubusercontent.com/75574745/170770388-d01982e0-6881-4f25-99ee-0f2aa542df7e.png)
